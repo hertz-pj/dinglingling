@@ -6,12 +6,20 @@ The code references https://github.com/light8lee/dingdong. The web weChat now is
 - python >= 3.6
 
 ## Installation
+1. clone the whole project from git and install
 ```bash
-git clone git@github.com:light8lee/dingdong.git
+git clone https://github.com/PeijiYang/dinglingling.git
+cd dinglingling
 python setup.py install
 ```
 
+2. install from pypi
+```bash
+pip install dinglingling
+```
+
 ## Usage
+First, you need to register an account from http://sc.ftqq.com/3.version. Then you will get a SCKEY.  
 Just like the examples in test.py, you need to add the decorator ahead of your function:
 ```python
 from dinglingling import wx_reminder
