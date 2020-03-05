@@ -35,6 +35,9 @@ def test_correct_func():
     print("hello world")
 ```
 
+use demo:
+![img](./img/demo.png)
+
 ## Thanks
 - [ServerChan](http://sc.ftqq.com/3.version)
 - [light8lee](https://github.com/light8lee)
