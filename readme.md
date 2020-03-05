@@ -38,13 +38,9 @@ def test_correct_func():
 use demo:
 <p align="center">
 	<img src="./img/demo.png" alt="Sample"  width="400">
-	<p align="center">
-		<em>图片示例2</em>
-	</p>
 </p>
 ————————————————
-版权声明：本文为CSDN博主「_伊织_」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/lovechris00/article/details/82379382
+
 
 ## Thanks
 - [ServerChan](http://sc.ftqq.com/3.version)
