@@ -13,11 +13,6 @@ cd dinglingling
 python setup.py install
 ```
 
-2. install from pypi
-```bash
-pip install dinglingling
-```
-
 ## Usage
 First, you need to register an account from http://sc.ftqq.com/3.version. Then you will get a SCKEY.  
 Just like the examples in test.py, you need to add the decorator ahead of your function:
